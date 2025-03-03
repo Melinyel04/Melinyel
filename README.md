@@ -1,8 +1,8 @@
-# 👨‍💻 Geudes Gomes
+# Melinyel
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Geudes Gomes, tenho 21 anos e sou natural de Manaus. Concluí o ensino médio na Fundação Matias Machline, com o curso técnico em mecatrônica. Atualmente, estou cursando Engenharia da Computação na Faculdade Mathias Machline. Sou apaixonado por tecnologia e artes.
+Me chamo Melinyel, tenho 21 anos e sou natural de Manaus. Concluí o ensino médio na Fundação Matias Machline, com o curso técnico em mecatrônica. Atualmente, estou cursando Engenharia da Computação na Faculdade Mathias Machline. Amo artes e tecnologia.
 <p align="left">
     <a href="https://github.com/Melinyel04?tab=repositories&sort=stargazers">
         <img 
